@@ -1,1 +1,3 @@
-xlrd==2.0.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:dad16d36b0ed2748b7eac4dd733ef5ad8fc8707361174aeb6546b556fac4cb96
+size 13
