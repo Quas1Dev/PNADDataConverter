@@ -1,0 +1,14 @@
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore spreadsheet manipulation library
+spreadsheet-manipulation/
+
+# Ignore dependencies installed by pip
+Lib/
+Scripts/
+
+# Ignore virtual environment files
+spreadsheet-manipulation/
